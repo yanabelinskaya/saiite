@@ -1,0 +1,134 @@
+{
+  "bakery": [
+    {
+      "myId": "1",
+      "id": "1",
+      "name": "Батон",
+      "description": "Золотистая и хрустящая корочка",
+      "price": "70 ₽ ",
+      "img": "img/baton.jpeg"
+    },
+    {
+      "myId": "2",
+      "id": "2",
+      "name": "Веселый хлебушек",
+      "description": "Ароматный и домашний",
+      "price": "100 ₽",
+      "img": "img/hleb.jpeg"
+    },
+    {
+      "myId": "3",
+      "id": "3",
+      "name": "Чизкейк",
+      "description": "Сладкий как ваша попочка",
+      "price": "150 ₽",
+      "img": "img/chiz.jpeg"
+    },
+    {
+      "myId": "4",
+      "id": "4",
+      "name": "Шоколадный фондан",
+      "description": "Горячее шоколадное чудо",
+      "price": "70 ₽",
+      "img": "img/fondan.jpeg"
+    },
+    {
+      "myId": "5",
+      "id": "5",
+      "name": "Клубника в шоколаде",
+      "description": "Ягодное наслаждение",
+      "price": "250 ₽",
+      "img": "img/klubnica.jpeg"
+    },
+    {
+      "myId": "6",
+      "id": "6",
+      "name": "Круассан",
+      "description": "Утренняя сказка. Круассан с шоколадной начинкой",
+      "price": "110 ₽",
+      "img": "img/kruasan.jpeg"
+    },
+    {
+      "myId": "7",
+      "id": "7",
+      "name": "Картошечка",
+      "description": "Слюньки текут даже после употребления",
+      "price": "50 ₽",
+      "img": "img/kartoshka.jpeg"
+    },
+    {
+      "myId": "8",
+      "id": "8",
+      "name": "Захер",
+      "description": "Шоколадное счастье",
+      "price": "140 ₽",
+      "img": "img/zaher.jpeg"
+    },
+    {
+      "myId": "9",
+      "id": "9",
+      "name": "Негр в пене",
+      "description": "По рецепту мамы = очень вкусный",
+      "price": "500 ₽",
+      "img": "img/negr.jpeg"
+    },
+    {
+      "myId": "10",
+      "id": "10",
+      "name": "Эклеры",
+      "description": "Кремовая нежность",
+      "price": "450 ₽",
+      "img": "img/ekler.JPG"
+    },
+    {
+      "myId": "11",
+      "id": "11",
+      "name": "Пончики",
+      "description": "Пышные сладкие кругляши",
+      "price": "80 ₽",
+      "img": "img/ponchik.jpeg"
+    },
+    {
+      "myId": "12",
+      "id": "12",
+      "name": "Макаруны",
+      "description": "Миндальное разноцветие",
+      "price": "70 ₽",
+      "img": "img/makaruni.jpeg"
+    },
+    {
+      "myId": "13",
+      "id": "13",
+      "name": "Лимонад",
+      "description": "Свежесть ягодного взрыва",
+      "price": "150 ₽",
+      "img": "img/limonad.jpeg"
+    },
+    {
+      "myId": "14",
+      "id": "14",
+      "name": "Молочный коктейль",
+      "description": "Наслаждение в каждом глотке",
+      "price": "199 ₽",
+      "img": "img/kokteil.jpeg"
+    },
+    {
+      "myId": "15",
+      "id": "15",
+      "name": "Капучино",
+      "description": "Капучино с миндальным сиропом",
+      "price": "70 ₽",
+      "img": "img/kapucino.jpeg"
+    },
+    {
+      "myId": "16",
+      "id": "16",
+      "name": "Раф",
+      "description": "Кремовый кофейный экстаз",
+      "price": "170 ₽",
+      "img": "img/raf.jpeg"
+    }
+  ],
+  "overlays": [],
+  "favourites": []
+}
